@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1465024071 source:c:\users\awsaf alam\desktop\space_invasion\imain.cpp
+	"iGraphics.h"
+
+1465023846 c:\users\awsaf alam\desktop\space_invasion\igraphics.h
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<math.h>
+	"TextureList.h"
+
+1464889110 c:\users\awsaf alam\desktop\space_invasion\texturelist.h
+	"texture.h"
+
+1464445803 c:\users\awsaf alam\desktop\space_invasion\texture.h
+
+1465450480 source:c:\users\awsaf alam\desktop\space_invasion - copy\imain.cpp
+	"iGraphics.h"
+
+1465325736 c:\users\awsaf alam\desktop\space_invasion - copy\igraphics.h
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<math.h>
+	"TextureList.h"
+
+1465369713 c:\users\awsaf alam\desktop\space_invasion - copy\texturelist.h
+	"texture.h"
+
+1464445804 c:\users\awsaf alam\desktop\space_invasion - copy\texture.h
+
+1465460467 source:c:\users\dolphin pc\google drive\l1-t1\cse_\ cse lab 102\l1-t1 projects\space_invasion--1505114&1505086\space_invasion--1505114&1505086\imain.cpp
+	"iGraphics.h"
+
+1465460466 c:\users\dolphin pc\google drive\l1-t1\cse_\ cse lab 102\l1-t1 projects\space_invasion--1505114&1505086\space_invasion--1505114&1505086\igraphics.h
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<math.h>
+	"TextureList.h"
+
+1465460476 c:\users\dolphin pc\google drive\l1-t1\cse_\ cse lab 102\l1-t1 projects\space_invasion--1505114&1505086\space_invasion--1505114&1505086\texturelist.h
+	"texture.h"
+
+1465460476 c:\users\dolphin pc\google drive\l1-t1\cse_\ cse lab 102\l1-t1 projects\space_invasion--1505114&1505086\space_invasion--1505114&1505086\texture.h
+
